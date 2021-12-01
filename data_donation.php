@@ -1,6 +1,6 @@
 <?php
 //import ban_ip
-include_once("php-ban-ip/banip.php");
+include_once("php-ban-ip-main/banip.php");
 
 
 //options
